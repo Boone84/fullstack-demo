@@ -1,4 +1,4 @@
-# Trains! Choo! Choo!
+# Trains! Choo! Choo! Choo!
 
 Classroom Manager is an SPA that allows users to effectively manage data relating to trains. Once a user has successfully registered for an account and logged in, they will be given access to a platform that allows them to see trains, add new trains, update existing trains, and remove trains.
 
